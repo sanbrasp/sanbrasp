@@ -61,7 +61,7 @@ comes next. 😀
   <a href="https://github.com/sanbrasp/arbeidskrav2sem2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem2&theme=dracula" />
   </a>
-  <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
+  <a href="https://github.com/sanbrasp/arbeidskrav1sem2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav1sem2&theme=dracula" />
   </a>
   <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
