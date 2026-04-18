@@ -51,8 +51,30 @@ comes next. 😀
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbrasp&layout=compact&theme=dracula)
 
 ## 🚀 Current Projects
-- School group project (backend + documentation + testing + git workflows + SCRUM methodic)
+- School group project (backend + documentation + testing + git workflows + SCRUM methodic) (not my repo)
 - Building better developer habits through templates and automation
+
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/sanbrasp/arbeidskrav2sem2">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem2&theme=dracula" />
+  </a>
+  <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav1sem2&theme=dracula" />
+  </a>
+  <a href="https://github.com/sanbrasp/randomcardpickermaui">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=randomcardpickermaui&theme=dracula" />
+  </a>
+  <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav3sem1&theme=dracula" />
+  </a>
+  <a href="https://github.com/sanbrasp/arbeidskrav2sem1">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem1&theme=dracula" />
+  </a>
+</p>
+
 
 ## 🐾 Random Facts
 - I live with my best friend, a very dramatic Miniature Bull Terrier, named Hjørdis (yes, it is true that they are like 2-year old humans in dog suits)
