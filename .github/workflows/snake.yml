@@ -12,6 +12,9 @@ jobs:
   generate:
     runs-on: ubuntu-latest
 
+    permissions:
+      contents: write    # REQUIRED so the action can push to output branch
+
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
