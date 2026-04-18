@@ -56,7 +56,7 @@ comes next. 😀
 - Specialization: Backend Chaos Management
 
 
-➡️ How I Ended Up Here
+## ➡️ How I Ended Up Here
 My interest for "what happens behind the scenes" started in the early years of Todd Howard's indisputable masterpiece [Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion).  
 The game (on PC) allowed the player to manipulate variables and change things around. Anything from adding items to the scene, changing an NPCs name or infamy, 
 downright deleting them, to progressing quest flags and un-blocking things whenever a feature (bug) appeared (we love the bugs, please keep them!).
