@@ -6,6 +6,8 @@ Welcome to my somewhat chaotic profile.
 Here you will find random little projects from my journey throughout my backend programming studies, and whatever
 comes next. 😀
 
+![snake gif](https://github.com/sanbrasp/sanbrasp/blob/output/github-contribution-grid-snake.svg)
+
 ---
 
 ## 👩‍💻 About Me
@@ -20,11 +22,16 @@ comes next. 😀
 - Tools: Rider, Git, Github, Gitlab, Linux, Windows
 - Interests: backend architecture, concepts, methods, testing workflows, automation, clean documentation
 
+![Sandra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanbrasp&theme=dracula)
+
 ## 📚 What I am learning
 - Basic Backend Programming
 - Operational Backend Programming
 - (coming) Advanced Backend Programming
 - (coming) Specialized Backend Programming
+
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbrasp&layout=compact&theme=dracula)
 
 ## 🚀 Current Projects
 - School group project (backend + documentation + testing + git workflows + SCRUM methodic)
@@ -36,6 +43,10 @@ comes next. 😀
 - I thrive on clear directions, and end up making up my own directions if something remains unclear
 - Give me a large mug of Earl Greay tea with one teaspoon of sugar and a dash of cream and I will stay put wherever you set me down
 - I don't eat breakfast; I merely exist until evening
+
+![GitHub Streak](https://streak-stats.demolab.com/?user=sanbrasp&theme=dracula)
+
+![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbrasp&show_icons=true&theme=dracula)
 
 
 ## 🧠 Skills I’ve Unlocked (XP Log)
@@ -76,15 +87,3 @@ I simply cannot wait to one day be able to say: "I am a programmer!", and do act
 Thank for coming to my TedTalk!
 
 ---
-
-## 🎩Fancy Graphs And Such
-
-![Sandra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanbrasp&theme=dracula)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbrasp&layout=compact&theme=dracula)
-
-![GitHub Streak](https://streak-stats.demolab.com/?user=sanbrasp&theme=dracula)
-
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbrasp&show_icons=true&theme=dracula)
-
-![snake gif](https://github.com/sanbrasp/sanbrasp/blob/output/github-contribution-grid-snake.svg)
