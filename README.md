@@ -74,3 +74,9 @@ and a blaring signal that I chose the correct path!
 I simply cannot wait to one day be able to say: "I am a programmer!", and do actual programming work for a living! I will pop a bottle of Champagne when that day arrives, because when it does - I will finally be home.
 
 Thank for coming to my TedTalk!
+
+---
+
+## 🎩Fancy Graphs And Such
+
+![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbrasp&show_icons=true&theme=dracula)
