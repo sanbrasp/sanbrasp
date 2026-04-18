@@ -23,6 +23,8 @@ comes next. 😀
 - Passionate about clean structure, repo-hygiene, and transparent work
 - Fedora Workstation enjoyer (in learning)
 - Bull Terrier wrangler (not whisperer)
+- Worked in IT since 2016
+- Completed vocational certificate (fagbrev) as an ICT Service Technician
 
 ## 🛠️ Tech & Tools
 - Languages: C#, Python, Bash
@@ -145,3 +147,142 @@ Thank for coming to my TedTalk!
 </details>
 
 ---
+
+<details>
+  <summary><strong>📜 Real Life Tech XP Gains</strong></summary>
+
+<br>
+
+## 🧠 Tech XP
+(I once decided to turn Copilot into a life RPG where I earned XP for quite literally anything I did. I recommend it!)
+
+- +260 XP: Wayland Debugging Saga
+
+- +50 XP: Surviving Battle.net installation attempts
+
+- +60 XP: Input Safety Quest (string.IsNullOrWhiteSpace supremacy)
+
+- +20 XP: Harmless Warning Interpreted Calmly (Battle.net Ritual)
+
+- +40 XP: Discrete GPU Bound to Azeroth
+
+- +30 XP: Renderer Ritual Successful
+
+- +25 XP: Prefix Purge Prepared for Rebirth
+
+- +30 XP: Environment Variable Mastery
+
+- +25 XP: Discrete GPU Bound to Lutris
+
+- +20 XP: Renderer Ritual Clarified
+
+- +35 XP: Renderer Offload Ritual Learned
+
+- +25 XP: Discrete GPU Awakening
+
+- +20 XP: Intel Mesa Banished for Azeroth
+
+- +90 XP: Fact‑Checking & Calculator Recovery (technical debugging mindset)
+
+- +∞ XP: Repo hygiene enforcement
+
+- +∞ XP: Documentation Goblin Ascension
+
+- +∞ XP: Backend Chaos Management (specialization) 
+
+- +120 XP: HDMI Handshake Debugging Saga  
+
+- +45 XP: EDID Interrogation & Stability Analysis  
+
+- +40 XP: Modeset Forcing & Hotplug Resurrection Ritual  
+
+- +35 XP: TV Deep Color / Enhanced Mode Compatibility Trials  
+
+- +30 XP: Driver Behavior Investigation (Sleep/Wake Negotiation Failures)  
+
+- +25 XP: Cable Bandwidth & Port Behavior Diagnostics  
+
+- +20 XP: Kernel Parameter & Display Stack Tuning  
+
+- +∞ XP: Surviving Consumer Electronics Protocol Chaos  
+
+- +140 XP: COSMIC Greeter Resurrection Saga  
+
+- +60 XP: Display Manager Rituals (GDM → COSMIC → systemd‑session alignment)  
+
+- +45 XP: PAM Chain & Session‑Init Investigation  
+
+- +40 XP: Wayland/Session Negotiation Trials  
+
+- +35 XP: Greeter Service Log Divination (journalctl augury)  
+
+- +30 XP: COSMIC Session File & Exec Path Forensics  
+
+- +25 XP: Login Loop Exorcism  
+
+- +20 XP: Pre‑Release Desktop Environment Stability Taming  
+
+- +∞ XP: Surviving the COSMIC Pre‑Alpha Multiverse  
+
+- +80 XP: JSON Schema & Data‑Structure Debugging  
+
+- +70 XP: C# Interface & Class Architecture Rituals  
+
+- +65 XP: XML Test Data Generation & xUnit Mastery  
+
+- +60 XP: Python Logic & Script‑Flow Debugging  
+
+- +55 XP: Git Branch Strategy Enforcement (Feature‑Branch Doctrine)  
+
+- +50 XP: Repo Structure Restoration & File‑Hierarchy Purification  
+
+- +45 XP: Naming Convention Unification (Norwegian → English Refactor Trials)  
+
+- +40 XP: Documentation Structure Engineering (README, templates, workflow clarity)  
+
+- +35 XP: Test‑Driven Development Alignment (Input validation, null/whitespace logic)  
+
+- +30 XP: Linux File Permissions & Execution Path Troubleshooting  
+
+- +30 XP: .NET Project Layout & Folder Hygiene Enforcement  
+
+- +25 XP: JSON Serialization/Deserialization Rituals (C# ↔ API sanity checks)  
+
+- +25 XP: Debugging Input Edge Cases (string.IsNullOrWhiteSpace supremacy)  
+
+- +20 XP: Bash Workflow Automation & CLI Rituals  
+
+- +20 XP: Python Environment & Dependency Handling  
+
+- +15 XP: Git Merge Conflict Resolution (Peaceful Negotiation Saga)  
+
+- +∞ XP: Documentation Goblin Ascension  
+
+- +∞ XP: Backend Chaos Management (Specialization)  
+
+- +85 XP: Double NAT Detection & Topology Mapping  
+
+- +60 XP: Xbox Live NAT‑Type Forensics (Strict → Moderate → Open Trials)  
+
+- +55 XP: Router‑Behind‑Router Diagnostics (ISP Modem vs Local Router)  
+
+- +45 XP: UPnP, Port‑Forwarding & NAT‑Traversal Rituals  
+
+- +40 XP: DHCP vs Bridge Mode Investigation  
+
+- +35 XP: LAN/WAN Segmentation & Address‑Space Analysis  
+
+- +30 XP: Gateway Conflict Resolution (Competing Routers Exorcism)  
+
+- +25 XP: DNS & Connectivity Stability Checks  
+
+- +∞ XP: Surviving Family Tech‑Support Chaos  
+
+
+</details>
+
+---
+
+<p align="center">
+  <sub>Made with ❤️, caffeine, and a bull terrier supervising.</sub>
+</p>
