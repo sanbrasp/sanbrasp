@@ -64,9 +64,6 @@ comes next. 😀
   <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav1sem2&theme=dracula" />
   </a>
-  <a href="https://github.com/sanbrasp/randomcardpickermaui">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=randomcardpickermaui&theme=dracula" />
-  </a>
   <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav3sem1&theme=dracula" />
   </a>
