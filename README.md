@@ -11,7 +11,8 @@
 
 
 Here you will find random little projects from my journey throughout my backend programming studies, and whatever
-comes next. 😀
+comes next. 😀  
+(I also have a GitLab profile, [here](https://gitlab.com/sanbrasp))
 
 ![snake gif](https://github.com/sanbrasp/sanbrasp/blob/output/github-contribution-grid-snake.svg)
 
