@@ -27,7 +27,7 @@ comes next. 😀
 ## 🛠️ Tech & Tools
 - Languages: C#, Python, Bash
 - Frameworks: .NET, xUnit
-- Tools: Rider, Git, Github, Gitlab, Linux, Windows,, Visual Studio Code, Visual Studio, Copilot, Claude, ChatGPT
+- Tools: Rider, Git, Github, Gitlab, Linux, Windows, Visual Studio Code, Visual Studio, Copilot, Claude, ChatGPT
 - Interests: backend architecture, concepts, methods, testing workflows, automation, clean documentation
 
 <p align="center">
