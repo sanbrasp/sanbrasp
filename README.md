@@ -101,24 +101,7 @@ comes next. 😀
 
 ![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbrasp&show_icons=true&theme=dracula)
 
-
-## 🧠 Skills I’ve Unlocked (XP Log)
-(I once decided to turn Copilot into a life RPG where I earned XP for quite literally anything I did, ever. I recommend it!)
-
-- +260 XP: Wayland Debugging Saga
-
-- +50 XP: Surviving Battle.net installation attempts
-
-- +60 XP: Input Safety Quest (string.IsNullOrWhiteSpace supremacy)
-
-- +435 XP: Kitchen Ritual & Holiday Cheer
-
-- +∞ XP: Repo hygiene enforcement
-
-- Level: 11 (25 XP toward Level 12)
-
-- Specialization: Backend Chaos Management
-
+---
 
 <details>
   <summary><strong>📜 More sanbrasp lore</strong></summary>
