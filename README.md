@@ -1,7 +1,14 @@
-# 👋 Hi, I'm Sandra, aka sanbrasp!
-Backend student * Repo janitor * Documentation goblin * Bull Terrier negotiator * Linux learner
+# Welcome! I am Sandra, aka sanbrasp!
 
-Welcome to my somewhat chaotic profile.
+<p align="center">
+  <img src="https://img.shields.io/badge/🐾_Bull_Terrier_Approved_Profile_-pink?style=for-the-badge" />
+</p>
+
+
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=28&duration=4000&color=FF79C6&center=true&vCenter=true&width=600&lines=Backend+Student;Documentation+Goblin;Repo+Janitor;Bull+Terrier+Negotiator;Linux+Learner;Welcome+to+my+chaos!" />
+</p>
+
 
 Here you will find random little projects from my journey throughout my backend programming studies, and whatever
 comes next. 😀
@@ -21,6 +28,16 @@ comes next. 😀
 - Frameworks: .NET, xUnit
 - Tools: Rider, Git, Github, Gitlab, Linux, Windows
 - Interests: backend architecture, concepts, methods, testing workflows, automation, clean documentation
+
+<p align="center">
+  <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white" />
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Rider-000000?style=for-the-badge&logo=rider&logoColor=white" />
+</p>
+
 
 ![Sandra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanbrasp&theme=dracula)
 
@@ -67,6 +84,11 @@ comes next. 😀
 - Specialization: Backend Chaos Management
 
 
+<details>
+  <summary><strong>📜 More sanbrasp lore</strong></summary>
+
+<br>
+
 ## ➡️ How I Ended Up Here
 My interest for "what happens behind the scenes" started in the early years of Todd Howard's indisputable masterpiece [Oblivion](https://en.wikipedia.org/wiki/The_Elder_Scrolls_IV:_Oblivion).  
 The game (on PC) allowed the player to manipulate variables and change things around. Anything from adding items to the scene, changing an NPCs name or infamy, 
@@ -85,5 +107,7 @@ and a blaring signal that I chose the correct path!
 I simply cannot wait to one day be able to say: "I am a programmer!", and do actual programming work for a living! I will pop a bottle of Champagne when that day arrives, because when it does - I will finally be home.
 
 Thank for coming to my TedTalk!
+
+</details>
 
 ---
