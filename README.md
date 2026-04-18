@@ -27,7 +27,7 @@ comes next. 😀
 ## 🛠️ Tech & Tools
 - Languages: C#, Python, Bash
 - Frameworks: .NET, xUnit
-- Tools: Rider, Git, Github, Gitlab, Linux, Windows,, Visual Studio Code, Visual Studio
+- Tools: Rider, Git, Github, Gitlab, Linux, Windows,, Visual Studio Code, Visual Studio, Copilot, Claude, ChatGPT
 - Interests: backend architecture, concepts, methods, testing workflows, automation, clean documentation
 
 <p align="center">
@@ -46,6 +46,10 @@ comes next. 😀
   <img src="https://img.shields.io/badge/Visual%20Studio-5C2D91?style=for-the-badge&logo=visual-studio&logoColor=white" />
   <img src="https://img.shields.io/badge/xUnit-5C2D91?style=for-the-badge&logo=xunit&logoColor=white" />
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+  <img src="https://img.shields.io/badge/Microsoft%20Copilot-7425F5?style=for-the-badge&logo=microsoft&logoColor=white" />
+  <img src="https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white" />
+  <img src="https://img.shields.io/badge/Claude-FFD700?style=for-the-badge&logo=anthropic&logoColor=black" />
+  <img src="https://img.shields.io/badge/M365%20Copilot-2358D8?style=for-the-badge&logo=microsoft&logoColor=white" />
 </p>
 
 
