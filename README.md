@@ -269,3 +269,9 @@ Thank for coming to my TedTalk!
 <p align="center">
   <sub>Made with ❤️, caffeine, and a bull terrier supervising.</sub>
 </p>
+
+---
+
+<p align="center">
+  <img src="https://git-city.vercel.app/api?name=sanbrasp" alt="Git City">
+</p>
