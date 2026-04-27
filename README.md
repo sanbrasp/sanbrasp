@@ -271,9 +271,3 @@ Thank for coming to my TedTalk!
 </p>
 
 ---
-
-<p align="center">
-  <img src="https://git-city.vercel.app/api?name=sanbrasp" />
-</p>
-
-!https://git-city.vercel.app/api?name=sanbrasp
