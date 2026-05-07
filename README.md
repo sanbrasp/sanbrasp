@@ -71,9 +71,9 @@ comes next. 😀
 
 ## 🚀 Current Projects
 - Personal projects:
-  - PlayerOne: a small program that uses MySQL database via Docker in order to store game titles. Allows for user creation and login.
-  - CivilizationBuilder: Aspires to become an RTS-of-the-2000's influenced builder with advanced breeding logic.
-- School group project: Temperature Logging System using a simulated ESP32 sensor. 
+  - **PlayerOne**: a small program that uses MySQL database via Docker in order to store game titles. Allows for user creation and login.
+  - **CivilizationBuilder**: Aspires to become an RTS-of-the-2000's influenced builder with advanced breeding logic.
+- School group project: **Temperature Logging System **using a simulated ESP32 sensor. 
   (backend + documentation + testing + git workflows + SCRUM methodic) (repo is private as per now - awaiting grading.)
 
 
