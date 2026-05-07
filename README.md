@@ -76,6 +76,7 @@ comes next. 😀
 
 ## 📌 Featured Projects
 
+## 📌 Featured Projects
 <p align="center">
   <a href="https://github.com/sanbrasp/civilizationbuilder">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=civilizationbuilder&theme=dracula" />
