@@ -77,6 +77,12 @@ comes next. 😀
 ## 📌 Featured Projects
 
 <p align="center">
+  <a href="https://gitlab.com/sanbrasp/civilizationbuilder">
+    <img src=https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=civilizationbuilder&theme=dracula" />
+  </a>
+  <a href="https://gitlab.com/sanbrasp/playerone">
+    <img src=https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=playerone&theme=dracula" />>
+  </a>
   <a href="https://github.com/sanbrasp/arbeidskrav2sem2">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem2&theme=dracula" />
   </a>
