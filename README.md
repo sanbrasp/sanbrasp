@@ -62,43 +62,18 @@ comes next. 😀
 ![Sandra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanbrasp&theme=dracula)
 
 ## 📚 What I am learning
-- Basic Backend Programming
-- Operational Backend Programming
-- (coming) Advanced Backend Programming
+- Basic Backend Programming (✅)
+- Operational Backend Programming (✅)
+- Advanced Backend Programming (current)
 - (coming) Specialized Backend Programming
 
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=sanbrasp&layout=compact&theme=dracula)
 
 ## 🚀 Current Projects
 - Personal projects:
   - **PlayerOne**: a small program that uses MySQL database via Docker in order to store game titles. Allows for user creation and login.
   - **CivilizationBuilder**: Aspires to become an RTS-of-the-2000's influenced builder with advanced breeding logic.
-- School group project: **Temperature Logging System** using a simulated ESP32 sensor. 
-  (backend + documentation + testing + git workflows + SCRUM methodic) (repo is private as per now - awaiting grading.)
-
-
-## 📌 Featured Projects
-<p align="center">
-  <a href="https://github.com/sanbrasp/civilizationbuilder">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=civilizationbuilder&theme=dracula" />
-  </a>
-  <a href="https://github.com/sanbrasp/playerone">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=playerone&theme=dracula" />
-  </a>
-  <a href="https://github.com/sanbrasp/arbeidskrav2sem2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem2&theme=dracula" />
-  </a>
-  <a href="https://github.com/sanbrasp/arbeidskrav1sem2">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav1sem2&theme=dracula" />
-  </a>
-  <a href="https://github.com/sanbrasp/arbeidskrav3sem1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav3sem1&theme=dracula" />
-  </a>
-  <a href="https://github.com/sanbrasp/arbeidskrav2sem1">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sanbrasp&repo=arbeidskrav2sem1&theme=dracula" />
-  </a>
-</p>
+- School projects:
+  - `Arbeidskrav 1` for the first semester in Year 2 - Algorithms!
 
 
 ## 🐾 Random Facts
@@ -106,11 +81,10 @@ comes next. 😀
 - I enjoy writing documentation(!!?)
 - I thrive on clear directions, and end up making up my own directions if something remains unclear
 - Give me a large mug of Earl Greay tea with one teaspoon of sugar and a dash of cream and I will stay put wherever you set me down
-- I don't eat breakfast; I merely exist until evening
+- I don't eat breakfast
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanbrasp&theme=dracula)
 
-![Sandra's GitHub stats](https://github-readme-stats.vercel.app/api?username=sanbrasp&show_icons=true&theme=dracula)
 
 ---
 
@@ -148,7 +122,7 @@ Thank for coming to my TedTalk!
 <br>
 
 ## 🧠 Tech XP
-(I once decided to turn Copilot into a life RPG where I earned XP for quite literally anything I did. I recommend it!)
+Just a small slice to showcase my interest in tech.
 
 - +260 XP: Wayland Debugging Saga
 
