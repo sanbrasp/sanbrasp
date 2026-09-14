@@ -58,9 +58,6 @@ comes next. 😀
 </p>
 
 
-
-![Sandra's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=sanbrasp&theme=dracula)
-
 ## 📚 What I am learning
 - Basic Backend Programming (✅)
 - Operational Backend Programming (✅)
