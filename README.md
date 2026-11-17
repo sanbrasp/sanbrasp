@@ -20,16 +20,16 @@ comes next. 😀
 
 ## 👩‍💻 About Me
 - Backend Programming Student at Gokstad Akademiet
-- Passionate about clean structure, repo-hygiene, and transparent work
+- Care about clean structure, repo-hygiene, and transparent work
 - Fedora Workstation enjoyer (in learning)
 - Bull Terrier wrangler (not whisperer)
-- Worked in IT since 2016
+- Worked in IT since 2012
 - Completed vocational certificate (fagbrev) as an ICT Service Technician
 
 ## 🛠️ Tech & Tools
 - Languages: C#, Python, Bash
 - Frameworks: .NET, xUnit
-- Tools: Rider, Git, Github, Gitlab, Linux, Windows, Visual Studio Code, Visual Studio, Copilot, Claude, ChatGPT
+- Tools: Rider, Git, GitHub, GitLab, Linux, Windows, Visual Studio Code, Visual Studio, Copilot, Claude, ChatGPT, Docker Desktop, Postman, Swagger
 - Interests: backend architecture, concepts, methods, testing workflows, automation, clean documentation
 
 <p align="center">
@@ -55,6 +55,8 @@ comes next. 😀
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
   <img src="https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white" />
+  <img src="https://img.shields.io/badge/ASP.NET%20Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
+<img src="https://img.shields.io/badge/Entity%20Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" />
 </p>
 
 
@@ -70,15 +72,15 @@ comes next. 😀
   - **PlayerOne**: a small program that uses MySQL database via Docker in order to store game titles. Allows for user creation and login.
   - **CivilizationBuilder**: Aspires to become an RTS-of-the-2000's influenced builder with advanced breeding logic.
 - School projects:
-  - `Arbeidskrav 1` for the first semester in Year 2 - Algorithms!
+  - `Arbeidskrav 1` (algorithms) and `Arbeidskrav 2` (Blazor, ASP.NET Core) for the first semester in Year 2 are both done and set to public. Next up is:  
+  `EXAM 1` which will cover everything we learned so far!
 
 
 ## 🐾 Random Facts
 - I live with my best friend, a very dramatic Miniature Bull Terrier, named Hjørdis (yes, it is true that they are like 2-year old humans in dog suits)
-- I enjoy writing documentation(!!?)
+- I enjoy writing and reading documentation that is easy to follow (please don't ask me to read MS Docs!)
 - I thrive on clear directions, and end up making up my own directions if something remains unclear
-- Give me a large mug of Earl Greay tea with one teaspoon of sugar and a dash of cream and I will stay put wherever you set me down
-- I don't eat breakfast
+- Give me a large mug of Earl Grey tea with one teaspoon of sugar and a dash of cream and I will stay put wherever you set me down
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=sanbrasp&theme=dracula)
 
@@ -96,7 +98,7 @@ The game (on PC) allowed the player to manipulate variables and change things ar
 downright deleting them, to progressing quest flags and un-blocking things whenever a feature (bug) appeared (we love the bugs, please keep them!).
 
 However, it was not until I was well into adulthood that I really started considering programming as something I could actually get into.  
-Since 2013 I have been working in the IT field as Support for various types of companies - among them The National Library of Norway. During these years I was able to check in with many programmers and see how and what they were working on. And I have to admit, at first it was daunting. I doubted myself to a point where I shelved the
+Since 2012 I have been working in the IT field as Support for various types of companies - among them The National Library of Norway. During these years I was able to check in with many programmers and see how and what they were working on. And I have to admit, at first it was daunting. I doubted myself to a point where I shelved the
 whole idea - for years.  
 
 Life went on, and after a whole lot of lifing, things culminated in a crossroads in 2023. That is when I started to seriously consider the field.  
@@ -107,7 +109,7 @@ and a blaring signal that I chose the correct path!
 
 I simply cannot wait to one day be able to say: "I am a programmer!", and do actual programming work for a living! I will pop a bottle of Champagne when that day arrives, because when it does - I will finally be home.
 
-Thank for coming to my TedTalk!
+Thanks you for coming to my TED Talk!
 
 </details>
 
